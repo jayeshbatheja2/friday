@@ -1,0 +1,7 @@
+{
+  "name": "FRIDAY - Web Assistant",
+  "description": "A React-based voice assistant inspired by Iron Man's FRIDAY. Features voice interaction, system monitoring simulation, and Gemini-powered intelligence in a futuristic HUD interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
